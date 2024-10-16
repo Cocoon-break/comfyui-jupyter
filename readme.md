@@ -1,7 +1,8 @@
 ## comfyui jupyter
 
-[官方 demo](comfyui-kaggle.ipynb)
-[肖像大师](portrait-master.ipynb)
+- [官方 demo](comfyui-kaggle.ipynb)
+
+- [肖像大师](portrait-master.ipynb)
 
 ### run in kaggle
 
