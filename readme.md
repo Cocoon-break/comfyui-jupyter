@@ -1,8 +1,10 @@
 ## comfyui jupyter
 
-- [官方 demo](comfyui-kaggle.ipynb)
+- [官方 demo](./jupyter/comfyui-kaggle.ipynb)
 
-- [肖像大师](portrait-master.ipynb)
+- [肖像大师](./jupyter/portrait-master.ipynb)
+
+- [手绘转 3D](./jupyter/sketch_to_3d.ipynb)
 
 ### run in kaggle
 
